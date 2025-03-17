@@ -46,6 +46,3 @@ Este proyecto fue desarrollado como parte del desafío de Alura Challenge Amigo 
 
 Autor
 Diego Q. - Perfil de GitHub
-Agradecimientos
-Este proyecto fue desarrollado como parte del desafío de Alura Challenge Amigo Secreto. Agradecimientos especiales a la comunidad de Alura y Oracle Next Education por su apoyo y recursos educativos.
-
